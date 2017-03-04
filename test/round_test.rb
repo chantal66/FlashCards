@@ -53,6 +53,6 @@ class RoundTest < Minitest::Test
   assert "Incorrect", round.guesses.last.feedback
   assert_equal 1, round.number_correct
   assert_equal 50, round.percent_correct
-  round.start
+  
  end
 end
