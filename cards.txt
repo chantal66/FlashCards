@@ -1,14 +1,14 @@
-What is the capital of Alaska?,Juneau
+What is the capital of Alaska?,juneau
 Approximately how many miles are in one astronomical unit?, 93,000,000
-Who played Neo in The Matrix?, Keanu Reeves
-What is the world's longest river?, Amazon
-Name the world's largest ocean, Pacific
+Who played Neo in The Matrix?, keanu reeves
+What is the world's longest river?, amazon
+Name the world's largest ocean, pacific
 What is the diameter of Earth?, 8,000 miles
-What is the painting 'La Gioconda' more usually known as?, The Mona Lisa
-Who wrote the Vampire Chronicles, which include the novels Armand, Blood and Gold and Interview with the Vampire?, Anne Rice
-Which class did Severus Snape always want to teach?, Defence against the dark arts
-What platform does the Hogwarts express depart from?, Platform 9 and 3/4
-Where is the opening to the chamber of secrets?, Girls bathroom
-what was Harry's first gift?, Nimbus 2000
-What is professor mcgonagall’s transfiguraton form?, Cat
-What is the name of the dragon that hagrid had?, Norbert
+What is the painting 'La Gioconda' more usually known as?, mona Lisa
+Who wrote the Vampire Chronicles, which include the novels Armand, Blood and Gold and Interview with the Vampire?, anne rice
+Which class did Severus Snape always want to teach?, defence against the dark arts
+What platform does the Hogwarts express depart from?, platform 9 and 3/4
+Where is the opening to the chamber of secrets?, girls bathroom
+what was Harry's first gift?, nimbus 2000
+What is professor mcgonagall’s transfiguraton form?, cat
+What is the name of the dragon that hagrid had?, norbert
