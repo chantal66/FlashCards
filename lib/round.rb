@@ -45,13 +45,15 @@ class Round
 
     puts "This is card number #{@current_card} out of #{deck.count}."
     puts "Question: #{card.question}"
-    user_input = gets.chomp.downcase
-    
-    record_guess(answer)
+    user_input = gets.chomp
+    record_guess(@answer)
     puts @guesses.last
   end
   puts "****** Game over! ******"
   puts "You had #{@number_correct} correct guesses out of #{deck.count} for a score of #{@percent_correct}."
+ end
+ def end
+   @guesses.length == @deck.count
  end
 end 
 
